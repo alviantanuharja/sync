@@ -1,0 +1,96 @@
+Running veccadd with 1 thread(s)
+Execution time with 1 thread(s): 298.5075 seconds
+Running veccadd with 2 thread(s)
+Execution time with 2 thread(s): 430.2926 seconds
+Running veccadd with 3 thread(s)
+Execution time with 3 thread(s): 529.6610 seconds
+Running veccadd with 4 thread(s)
+Execution time with 4 thread(s): 660.0660 seconds
+Running veccadd with 5 thread(s)
+Execution time with 5 thread(s): 719.9424 seconds
+Running veccadd with 6 thread(s)
+Execution time with 6 thread(s): 670.6908 seconds
+Running veccadd with 7 thread(s)
+Execution time with 7 thread(s): 647.6684 seconds
+Running veccadd with 8 thread(s)
+Execution time with 8 thread(s): 735.2941 seconds
+Running veccadd with 9 thread(s)
+Execution time with 9 thread(s): 512.0328 seconds
+Running veccadd with 10 thread(s)
+Execution time with 10 thread(s): 578.7037 seconds
+Running veccadd with 11 thread(s)
+Execution time with 11 thread(s): 695.8942 seconds
+Running veccadd with 12 thread(s)
+Execution time with 12 thread(s): 550.3577 seconds
+Running veccadd with 13 thread(s)
+Execution time with 13 thread(s): 642.2608 seconds
+Running veccadd with 14 thread(s)
+Execution time with 14 thread(s): 488.0429 seconds
+Running veccadd with 15 thread(s)
+Execution time with 15 thread(s): 436.6812 seconds
+Running veccadd with 16 thread(s)
+Execution time with 16 thread(s): 607.5334 seconds
+Running veccadd with 17 thread(s)
+Execution time with 17 thread(s): 445.6328 seconds
+Running veccadd with 18 thread(s)
+Execution time with 18 thread(s): 442.0866 seconds
+Running veccadd with 19 thread(s)
+Execution time with 19 thread(s): 470.5882 seconds
+Running veccadd with 20 thread(s)
+Execution time with 20 thread(s): 381.3883 seconds
+Running veccadd with 21 thread(s)
+Execution time with 21 thread(s): 443.2624 seconds
+Running veccadd with 22 thread(s)
+Execution time with 22 thread(s): 413.3940 seconds
+Running veccadd with 23 thread(s)
+Execution time with 23 thread(s): 370.3704 seconds
+Running veccadd with 24 thread(s)
+Execution time with 24 thread(s): 343.2887 seconds
+Running veccadd with 25 thread(s)
+Execution time with 25 thread(s): 369.9593 seconds
+Running veccadd with 26 thread(s)
+Execution time with 26 thread(s): 392.4647 seconds
+Running veccadd with 27 thread(s)
+Execution time with 27 thread(s): 363.3721 seconds
+Running veccadd with 28 thread(s)
+Execution time with 28 thread(s): 388.5004 seconds
+Running veccadd with 29 thread(s)
+Execution time with 29 thread(s): 407.3320 seconds
+Running veccadd with 30 thread(s)
+Execution time with 30 thread(s): 303.3981 seconds
+Running veccadd with 31 thread(s)
+Execution time with 31 thread(s): 340.7155 seconds
+Running veccadd with 32 thread(s)
+Execution time with 32 thread(s): 385.5050 seconds
+Running veccadd with 33 thread(s)
+Execution time with 33 thread(s): 320.6156 seconds
+Running veccadd with 34 thread(s)
+Execution time with 34 thread(s): 308.4516 seconds
+Running veccadd with 35 thread(s)
+Execution time with 35 thread(s): 299.0431 seconds
+Running veccadd with 36 thread(s)
+Execution time with 36 thread(s): 324.0441 seconds
+Running veccadd with 37 thread(s)
+Execution time with 37 thread(s): 336.7003 seconds
+Running veccadd with 38 thread(s)
+Execution time with 38 thread(s): 263.9916 seconds
+Running veccadd with 39 thread(s)
+Execution time with 39 thread(s): 247.5248 seconds
+Running veccadd with 40 thread(s)
+Execution time with 40 thread(s): 255.8199 seconds
+Running veccadd with 41 thread(s)
+Execution time with 41 thread(s): 271.5915 seconds
+Running veccadd with 42 thread(s)
+Execution time with 42 thread(s): 232.8831 seconds
+Running veccadd with 43 thread(s)
+Execution time with 43 thread(s): 246.6700 seconds
+Running veccadd with 44 thread(s)
+Execution time with 44 thread(s): 258.7992 seconds
+Running veccadd with 45 thread(s)
+Execution time with 45 thread(s): 194.1748 seconds
+Running veccadd with 46 thread(s)
+Execution time with 46 thread(s): 250.6266 seconds
+Running veccadd with 47 thread(s)
+Execution time with 47 thread(s): 238.6065 seconds
+Running veccadd with 48 thread(s)
+Execution time with 48 thread(s): 224.6181 seconds
